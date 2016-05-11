@@ -1,0 +1,30 @@
+
+img{
+    height:50%;
+    border-radius: 20px;
+}
+
+body{
+    text-align:center;  
+    background-color:grey;
+    margin:auto;
+    vertical-align: middle; 
+        
+}
+
+#results td{
+     color: #81BEF7;
+     font-family: Comic Sans, Comic Sans MS, cursive;
+     font-size:150%;
+} 
+
+table{
+    position:relative;
+    margin: auto;
+}
+
+#rule,#rule1{
+    color: #2E2EFE;    
+     font-size:120%;
+     font-family:Arial Black;
+}
